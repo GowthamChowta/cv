@@ -15,7 +15,7 @@ For improving the speed, we can freeze the encoder weights and train only the de
 
 2) CANet (Attention-guided Chained Context Aggregation for Semantic Segmentation) - Architechture: 
 ![image](https://user-images.githubusercontent.com/58596028/132141553-68a609a8-7080-48b4-badf-90e2d0a53931.png)
-(Exact version is not implemented, minor changes were made to the architechture )
+(Exact version is not implemented, minor changes were made to the architechture ).  
 Input and output: <br>
 ![image](https://user-images.githubusercontent.com/58596028/132141399-304399d4-ae38-4512-b573-28f1d7ce8f78.png)
 
