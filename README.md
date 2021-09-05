@@ -2,6 +2,9 @@
 
 Object Segmentation or Image segmentation is termed as categorizing each pixel value of an image to a particular class.
 
+Data contains 4000+ images of Indian roads and the corresponding class x-y co-ordinates of each image. <br> Link to the dataset :<a href="https://drive.google.com/file/d/1iQ93IWVdR6dZ6W7RahbLq166u-6ADelJ/view?usp=sharing">Data</a>
+
+
 The notebook object segmentation.ipynb has UNet and CANet (Chaing context and Aggregation network)
 
 1) UNET -  Architechture:
